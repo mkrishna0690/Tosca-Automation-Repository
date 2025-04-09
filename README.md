@@ -21,4 +21,20 @@ Tosca Automating
 
 #3
  **Re-Scan:** It is mainly used to update the exisiting user defined modules.
+
+
+ #4
+
+ **Various ACTION MODES:** This will apply to step level only.
+
+         - In details view, you'll see ActionMode.
+         - Default ActionMode is **Input**
+
+  *** **Verify** ActionMode: It is used to verify the control's
+                             a.Exists or Not
+                             b.Enabled or Not
+                             c.Visible or Not 
+                             d.Innertext
+                
+          
          
