@@ -46,7 +46,7 @@ Tosca Automating
  
 
 
-   #5 **How to take a screenshots in TOSCA?**
+   #6 **How to take a screenshots in TOSCA?**
 
         In 2 ways, you can take the screenshots
 
