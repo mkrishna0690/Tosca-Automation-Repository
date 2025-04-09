@@ -44,4 +44,18 @@ Tosca Automating
                                  1.Default wait time - 20 secs (20000 milliseconds)
                                  2.It applies to particular step where the ActionMode is WaitON
  
-         
+
+
+   #5 **How to take a screenshots in TOSCA?**
+
+        In 2 ways, you can take the screenshots
+
+        1.**TBox Take Screenshot (Standard module):** 
+        
+                 Click on    **TBox Automation Tools > Basic Windows Operations > TBox Take Screenshot**
+                 
+
+        2.**Doku snapper (Tool feature):**
+        
+           Path to find Doku Snapper: Project > Settings > Engine > DokuSnapper
+             
