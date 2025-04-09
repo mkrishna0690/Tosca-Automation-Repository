@@ -20,5 +20,5 @@ Tosca Automating
      Perform testing on same functionality in different browsers then it is called Cross-browser testing.
 
 #3
-** Re-Scan:** It is mainly used to update the exisiting user defined modules.
+ **Re-Scan:** It is mainly used to update the exisiting user defined modules.
          
