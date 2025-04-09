@@ -12,3 +12,5 @@ Tosca Automating
 **How to create TCP:**  Right Click on Testcase and select **‘Create TCP’ {purple color ICON}**
      
      
+**Cross-browser testing OR Multi-browser testing:**
+     Perform testing on same functionality in different browsers then it is called Cross-browser testing.
