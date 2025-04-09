@@ -50,7 +50,7 @@ Tosca Automating
 
         In 2 ways, you can take the screenshots
 
-        1.**TBox Take Screenshot (Standard module):** 
+        1.**TBox Take Screenshot (Standard module):**
         
                  Click on    **TBox Automation Tools > Basic Windows Operations > TBox Take Screenshot**
                  
