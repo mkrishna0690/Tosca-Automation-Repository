@@ -32,5 +32,16 @@ Tosca Automating
                              c.Visible or Not 
                              d.Innertext
                 
-          
+
+ #5 **Waiting Methods in TOSCA**:
+
+       - TBox wait (static wait time)
+       - Synchronization Timeout: It is TOSCA's default wait time (dynamic wait)
+                                  1.Tosca’s default wait time - 10 secs (10000 milliseconds)  
+                                  2.Location: Project > settings > TBox > Synchronization.
+
+       - Synchronization timeout during WAITON: 
+                                 1.Default wait time - 20 secs (20000 milliseconds)
+                                 2.It applies to particular step where the ActionMode is WaitON
+ 
          
