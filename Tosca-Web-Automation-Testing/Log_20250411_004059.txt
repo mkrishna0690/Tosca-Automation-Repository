@@ -1,0 +1,69 @@
+[3] 12:40:59 AM: Log started for 'C:\Tosca Web Automation Testing\Tosca-Automation-Repository\Tosca-Web-Automation-Testing\Tosca-Web-Automation-Testing.tws'
+[3] 12:40:59 AM: Log level: 4
+[3] 12:40:59 AM: Release: 13.3.0.35820
+[3] 12:41:02 AM: No service discovery configured.
+[3] 12:41:02 AM:  + DistributedExecutionAddIn: DistributedExecutionAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + ExploratoryTestingAssistant: ExploratoryTestingAssistantAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + ExploratoryTestingAssistantUI: ExploratoryTestingAssistantUIAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + IntegrationManagementAddIn: IntegrationManagementAddIn 13.3.0.247 (35820)
+    - : QTestIntegration 13.3.1.27 (27)
+    + : SAPSolutionManagerIntegration 13.3.1.27 (27)
+[3] 12:41:02 AM: Search started on 1 objects for query '->PROJECT->SUBPARTS:TCFolder[Name=="Execution"]->SUBPARTS:TCFolder=>SUBPARTS:InteractiveSession'
+[3] 12:41:02 AM: Searcher found 0 results in 73.1393 ms
+[3] 12:41:02 AM:  + OptIntAddIn: OptIntAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + QTestIntegrationAddIn: QTestIntegrationAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + RemoteControl: RemoteControlAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + Reporting: ReportingAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + ReportingUI: ReportingUIAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + RequirementsManagementAddIn: RequirementsManagement 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + RequirementsManagementUIAddIn: RequirementsManagementUI 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + SAPSolutionManagerAddIn: SAPSolutionManagerAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + TestCaseDesign: TestCaseDesign 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + ControlFlowDiagram: TestCaseVisualizationAddIn 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + XDefinitions: XDefinitions 13.3.0.247 (35820)
+[3] 12:41:02 AM:  + XDefinitionsUI: XDefinitionsUI 13.3.0.247 (35820)
+[3] 12:41:02 AM: Opened from Workspace File 'C:\Tosca Web Automation Testing\Tosca-Automation-Repository\Tosca-Web-Automation-Testing\Tosca-Web-Automation-Testing.tws'
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:41:04 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh all finished'
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh navigation view 'TestCases''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh navigation view 'Requirements''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh detail view 'TestCases''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh detail view 'Requirements''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh  'WindowLabels''
+[4] 12:41:05 AM:  ShowStatusInfo: 'Refresh all finished'
+[3] 12:41:05 AM: OpenWorkspace took 00:00:05.5279359 to finish
+[4] 12:41:07 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:07 AM:  ShowStatusInfo: '1 object selected'
+[4] 12:41:10 AM:  ShowStatusInfo: 'Refresh navigation view 'Modules''
+[4] 12:41:10 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:10 AM:  ShowStatusInfo: 'Refresh detail view 'Modules''
+[4] 12:41:10 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:10 AM:  ShowStatusInfo: 'Refresh view finished'
+[4] 12:41:12 AM:  ShowStatusInfo: 'Ready'
+[4] 12:41:13 AM:  ShowStatusInfo: '1 object selected'
+[4] 12:41:18 AM:  ShowStatusInfo: 'Ready'
+[3] 12:59:56 AM: Closing Workspace!
+[3] 12:59:56 AM: Log closed!
