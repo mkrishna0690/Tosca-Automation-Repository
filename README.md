@@ -66,10 +66,10 @@ Tosca Automating
 
                     How to create static buffer?
 
-                              Go to: TBox Automation Tool > TBox Set Buffer (Drag & Drop)
+                              Go to: TBox Automation Tool > Buffer Operations >  TBox Set Buffer (Drag & Drop)
 
-                                      Name                   Value
-                                      BufferName             Anyvalue
+                                              Name                   Value
+                                              BufferName             Anyvalue
 
             Syntax:  **{B[BufferName]} **
                   
@@ -77,5 +77,10 @@ Tosca Automating
             2.Dynamic Buffer: It's used to capture the InnerText of the particular control and to stores it into the buffers.
 
             Syntax:  **{XB[BufferName]}**
+
+
+     #8 **CARDINALITY**: It is a module attribute property and which allows us to add multiple attributes to the test step.
+
+               Cardinality Default Value : 0-1
     
              
