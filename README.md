@@ -58,4 +58,24 @@ Tosca Automating
         2.Doku snapper (Tool feature):
         
            Path to find Doku Snapper: Project > Settings > Engine > DokuSnapper
+
+
+    #7 **BUFFERS:** In TOSCA, you've 2 types of Buffers
+
+            1.Static Buffer: It mainly used to store the data.
+
+                    How to create static buffer?
+
+                              Go to: TBox Automation Tool > TBox Set Buffer (Drag & Drop)
+
+                                      Name                   Value
+                                      BufferName             Anyvalue
+
+            Syntax:  **{B[BufferName]} **
+                  
+                    
+            2.Dynamic Buffer: It's used to capture the InnerText of the particular control and to stores it into the buffers.
+
+            Syntax:  **{XB[BufferName]}**
+    
              
