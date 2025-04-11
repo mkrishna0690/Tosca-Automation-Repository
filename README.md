@@ -83,4 +83,9 @@ Tosca Automating
 
                Cardinality Default Value : 0-1
     
-             
+
+
+    #9 **Repetitions:** 
+
+          Where do you find the Repetition property? 
+               Repetition property exists in Test Step Folder
