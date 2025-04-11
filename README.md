@@ -89,3 +89,28 @@ Tosca Automating
 
           Where do you find the Repetition property? 
                Repetition property exists in Test Step Folder
+
+
+    #10 **Dynamic Expressions**: 
+
+          {DATE} : it's used to pick the current date of the system
+
+           Tosca's default date format:  dd.MM.yyyy
+
+
+     Syntax:  {DATE[][][]}
+
+           Examples:
+                    {DAY} : Current date {30,24,12,20 etc….}
+                    {ADAY} : Which day {Sat,Fri,mon,Tue etc….}
+                    {LDAY}: Which day {Saturday,Monday,Tuesday….}
+                    
+                    {Month}:  example {9,10,11,12,2,3,4,etc….}
+                    {Amonth}:  {Sep,Oct…..}
+                    {Lmonth}: {September,October}
+                    
+                    {year}:   {23,22,21,20,19…..}
+                    {Lyear}: {2023,2022,2021,2020 etc….}
+
+
+       #11  TEST MANDATES: Test Mandates are used to avoid the overwrite of other test results.
