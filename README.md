@@ -114,3 +114,55 @@ Tosca Automating
 
 
        #11  TEST MANDATES: Test Mandates are used to avoid the overwrite of other test results.
+
+
+       #12 **Data Driven Testing by using EXCEL Sheet**:
+
+             - Go to "C" - drive 
+             - Click on Tosca_Projects
+             - Click on ToscaCommander
+             - Click on Templates
+             - Click on BO Folder
+             - Copy Example excel  and paste it in any other folder
+             - Open the copied file
+             - Follow below format and enter the data 
+
+Object/Attribute		omain	         TC_001	         TC_002	          TC_003
+
+Gender					M 	         F	          M
+First name				hello	         hello1	          hello2
+Last name					pollo	         pollo1	          pollo2
+Email					hp_abc@gmail.com   hp_def@gmail.com	hp_ghi@gmail.com
+Password					1234567	         hp123456	          gh123456
+Confirm password				1234567	         hp123456	          gh123456
+
+
+              - Create one folder under TestCases Section
+              - Add existing TestCase or New Test  cases
+              - Right click and click on  "Convert to Template"
+              
+                       In Properties :
+                                SchemaPath (Click on ..)
+                                Data Source Path : <path of excel>
+                                Worksheet: <sheetname> 
+                                Click on Ok
+                                SchemaName: <once uploaded it’ll update>
+               - Remove hardcoded values and follow the below syntax to enter the column names in the Text fields
+                      For example:
+                                Gender : {XL[Gender}
+                                First Nam: {XL[First Name]} etc.......
+
+               - Right click  on the Template
+               - Click on Ellipses … (three dots)
+               - Select "Create TemplateInstance"
+               - One pop up will display {to check the path and sheetname}
+               - Another pop up YES or NO – click on YES
+               - TemplateInstance Folder will created
+               - Right click on TemplateInstance and click on run.
+
+
+              
+                       
+ 
+
+               
